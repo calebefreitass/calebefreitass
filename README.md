@@ -21,7 +21,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/calebefreitass/calebefreitass/output/snake.svg" alt="Snake animation" />
-
-###
