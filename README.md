@@ -7,19 +7,13 @@ Técnico em Programação de Jogos e Desenvolvedor Python em formação. Minha t
 <p align="left">
     <a href="https://www.linkedin.com/in/calebefreitass/">
         <img 
-            alt="LinkedIn" 
+            alt="LinkedIn"
+            align="center"
             title="Conecte-se comigo no LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
         />
     </a>
-     &nbsp;&nbsp;
-    <a href="https://www.instagram.com/calebefreitass/"> 
-        <img 
-            alt="Instagram" 
-            title="Siga-me no Instagram" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-        />
-    </a>
+     
 </p>
 
 ---
