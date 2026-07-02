@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-Técnico em Programação de Jogos e Desenvolvedor Python em formação. Minha trajetória na tecnologia começou no IFAM e atualmente continua na graduação em Engenharia de Software. Hoje, aos 19 anos, venho aprofundando meus conhecimentos em desenvolvimento backend, desenvolvimento mobile, bancos de dados e aplicações de Inteligência Artificial.
+Técnico em Programação de Jogos e Engenheiro de Software em formação. Minha trajetória na tecnologia começou no IFAM e atualmente continua na graduação em Engenharia de Software. Hoje, aos 19 anos, venho aprofundando meus conhecimentos em desenvolvimento backend, desenvolvimento mobile, bancos de dados e aplicações de Inteligência Artificial.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/calebefreitass/">
