@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-Técnico em Programação de Jogos e Engenheiro de Software em formação. Minha trajetória na tecnologia começou no IFAM e atualmente continua na graduação em Engenharia de Software. Hoje, aos 19 anos, venho aprofundando meus conhecimentos em desenvolvimento backend, desenvolvimento mobile, bancos de dados e aplicações de Inteligência Artificial.
+Técnico em Programação de Jogos e Engenheiro de Software em formação. Minha trajetória na tecnologia começou no IFAM e atualmente continua na graduação em Engenharia de Software. Hoje, aos 19 anos, venho aprofundando meus conhecimentos em desenvolvimento backend, desenvolvimento mobile e bancos de dados.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/calebefreitass/">
@@ -36,17 +36,3 @@ Técnico em Programação de Jogos e Engenheiro de Software em formação. Minha
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p align="center">
-    <img
-        height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=calebefreitass&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
-    />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img
-        height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=calebefreitass&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
-    />
-</p>
